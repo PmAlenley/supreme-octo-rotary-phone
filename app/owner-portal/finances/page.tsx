@@ -1,5 +1,3 @@
-'use client'
-
 import { Select, SelectTrigger, SelectContent, SelectItem, SelectValue } from "@radix-ui/react-select"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
